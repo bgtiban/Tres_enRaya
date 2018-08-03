@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="titulo">Tic Tac Toe</string>
+    <string name="btnUnJugador">1 Player</string>
+    <string name="btnDosJugadores">2 Players</string>
+    <string name="turno_O">Turn to O</string>
+    <string name="turno_X">Turn to X</string>
+    <string name="marcador_O">Points O:</string>
+    <string name="marcador_X">Points X:</string>
+    <string name="puntos_O">0</string>
+    <string name="puntos_X">0</string>
+    <string name="ganador">Winner: </string>
+    <string name="empate">Tie</string>
+    <string name="nombre_O">Duck</string>
+    <string name="nombre_X">Ferret</string>
+    <string name="aviso_campos">¡Hey, Do not forget to choose a name! =P</string>
+    <string name="historial">History game</string>
+    <string name="colores">Colours</string>
+    <string name="oscuro">Dark</string>
+    <string name="luz">Light</string>
+    <string name="sin_registros">Do not have history</string>
+    <string name="salir">Exit</string>
+    <string name="volver">Back</string>
+    <string name="jugar_otra_vex">New game</string>
+    <string name="fecha">Date</string>
+    <string name="pieza">Piece</string>
+    <string name="nombre">Name</string>
+    <string name="limpiar_historial">Clear History</string>
+    <string name="maximo_6_letras">¡At the maximum 6 letters! =)</string>
+    <string name="aviso_nombres_iguales">The names will not be equals</string>
+    <string name="preferencias">Preferences</string>
+    <string name="summary_Secreto">Write the secret</string>
+    <string name="titulo_secreto">Tell a secret</string>
+</resources>

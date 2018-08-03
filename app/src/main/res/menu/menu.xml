@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".inicio">
+    <item android:id="@+id/menu_item_historial"
+        android:title="@string/historial">
+    </item>
+    <item
+        android:id="@+id/itemPreferencias"
+        android:title="@string/preferencias">
+    </item>
+
+</menu>

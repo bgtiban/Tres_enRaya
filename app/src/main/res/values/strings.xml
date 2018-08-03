@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Tres en raya</string>
+    <string name="titulo">Tres en raya</string>
+    <string name="btnUnJugador">1 Jugador</string>
+    <string name="btnDosJugadores">2 Jugadores</string>
+    <string name="turno_O">Turno de O</string>
+    <string name="turno_X">Turno de X</string>
+    <string name="marcador_O">Puntos O:</string>
+    <string name="marcador_X">Puntos X:</string>
+    <string name="puntos_O">0</string>
+    <string name="puntos_X">0</string>
+    <string name="ganador">Ganador: </string>
+    <string name="empate">Empate</string>
+    <string name="nombre_O">Pato</string>
+    <string name="nombre_X">Hurón</string>
+    <string name="aviso_campos">¡Hey, no te olvides de elegir un nombre! =P</string>
+    <string name="historial">Historial partidas</string>
+    <string name="colores">Colores</string>
+    <string name="oscuro">Oscuro</string>
+    <string name="luz">Luz</string>
+    <string name="sin_registros">No hay Partidas</string>
+    <string name="fecha">Fecha</string>
+    <string name="pieza">Pieza</string>
+    <string name="nombre">Nombre</string>
+    <string name="limpiar_historial">Limpiar Historial</string>
+    <string name="salir">Salir</string>
+    <string name="volver">Volver</string>
+    <string name="jugar_otra_vex">Jugar otra vez</string>
+    <string name="maximo_6_letras">¡Máximo 6 letras! =)</string>
+    <string name="aviso_nombres_iguales">Los nombres no pueden ser iguales</string>
+    <string name="preferencias">Preferencias</string>
+    <string name="summary_Secreto">Escriba el secreto</string>
+    <string name="titulo_secreto">Cuente un secreto</string>
+</resources>
